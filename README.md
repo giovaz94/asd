@@ -1,6 +1,6 @@
 # Algoritmi e strutture dati
 Benvenuto !
-Prima di inziziare a modificare leggi quà sotto
+Prima di iniziare a modificare leggi di seguito:
 
 ### Cosa trovo in questo Repository?
 Attualmente l'unica cosa che sto mantenendo all'interno di questo repo è il file con le domande a scelta multipla del corso di Algoritmi e strutture dati.
