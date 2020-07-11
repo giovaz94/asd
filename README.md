@@ -6,7 +6,5 @@ Prima di iniziare a modificare leggi di seguito:
 Attualmente l'unica cosa che sto mantenendo all'interno di questo repo è il file con le domande a scelta multipla del corso di Algoritmi e strutture dati.
 Questo contiene domande a risposta multipla riguardo l'esame del **prof. Vittorio Maniezzo**
 
-### Sono uno studente che deve dare / ha dato l'esame di Algoritmi, come posso contribuire?
-Semplicemente puoi eseguire un clone (ovviamente devi possedere un account github e avere git installato nella tua macchina), apporta delle modifiche in un nuovo branch, e creare una richiesta di merge nell' origin.
-
-Ad ogni richiesta specificare tramite messaggio,molto brevemente, cosa è stato modficato ( presto cercherò di creare dei template per le varie richieste di merge).
+## UPDATE 11/07/2020 :
+Il foglio delle domande è stato , finalmente, completato ed è ora pronto per la revisione :tada:  
